@@ -3,7 +3,6 @@ package barbershop;
 
 public class Barber extends Thread {
     
-    System.out.println("Prova");
     WaitingRoom waitingRoom;
     private int barberChair = 0;
     private boolean barber = true;
