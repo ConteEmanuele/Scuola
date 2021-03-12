@@ -4,6 +4,7 @@ package barbershop;
 public class Barber extends Thread {
     
     System.out.println("Prova");
+    //commento
     WaitingRoom waitingRoom;
     private int barberChair = 0;
     private boolean barber = true;
